@@ -70,6 +70,14 @@ This project is intended for educational and demonstration purposes. Its keyword
 
 ## Author
 Anishka Garg
-## Application preview
+## Application Screenshots
 
+### 1. Main Interface
+![Main Interface](1.png)
+
+### 2. Resume Screening Results
+![Screening Results](3.png)
+
+### 3. Exported Results
+![CSV Export](4.png)
 
