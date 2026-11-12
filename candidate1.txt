@@ -1,0 +1,11 @@
+Anishka Garg
+Python Developer
+
+Skills:
+Python, SQL, Machine Learning,
+Data Analysis, Git, Excel,
+Communication, Problem Solving.
+
+Experience:
+Developed Python applications and
+performed data analysis projects.
