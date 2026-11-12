@@ -70,4 +70,6 @@ This project is intended for educational and demonstration purposes. Its keyword
 
 ## Author
 Anishka Garg
+## Application preview
+
 
